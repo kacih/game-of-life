@@ -69,6 +69,7 @@ public class GameController {
             e.printStackTrace();
         }
     }
+	
 
 	// Creates new grid for the next step, initialize with all dead cells
     private Universe universeInstanciatedByDimensions(final int rows, final int columns) {
